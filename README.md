@@ -43,7 +43,6 @@ is a standardized test widely used for college admissions in the United States. 
       information, as well as their writing and expression skills.
 
    1- Math: This section measures a student's mathematical skills, including algebra, problem-solving, data analysis, and some advanced math concepts.
-
       In addition to these core sections, students can choose to take an optional essay, which assesses their analytical writing skills.
 
 The total SAT score ranges from 400 to 1600, divided between the two main sections. The SAT is offered several times a year at various locations worldwide.
