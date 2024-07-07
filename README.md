@@ -40,11 +40,11 @@ NYC schools provide a range of support services, including free or reduced-price
 is a standardized test widely used for college admissions in the United States. It is administered by the College Board and aims to assess a student's readiness for college by measuring skills in critical reading, writing, and mathematics. The test is divided into two main sections:
 
    1- Evidence-Based Reading and Writing (EBRW): This section includes reading and writing and language tests. It measures a student's ability to read and analyze texts and infer 
-     information, as well as their writing and expression skills.
+      information, as well as their writing and expression skills.
 
    1- Math: This section measures a student's mathematical skills, including algebra, problem-solving, data analysis, and some advanced math concepts.
 
-     In addition to these core sections, students can choose to take an optional essay, which assesses their analytical writing skills.
+      In addition to these core sections, students can choose to take an optional essay, which assesses their analytical writing skills.
 
 The total SAT score ranges from 400 to 1600, divided between the two main sections. The SAT is offered several times a year at various locations worldwide.
 
